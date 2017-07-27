@@ -1,0 +1,30 @@
+"EyeRefract"
+{
+$Iris "ponies\Luna\luna_iris_r"
+$AmbientOcclTexture "ponies\Luna\invis"
+//$Envmap "ponies\Celestia\invis"
+$Envmap "env_cubemap"
+$EnvmapTint "[0.3 0.3 0.3]"
+//$CorneaTexture "ponies\Luna\invis"
+$CorneaTexture "Engine/eye-cornea"
+$EyeballRadius "1.25"//1.25
+$AmbientOcclColor "[.4 .4 .4]"
+//$Dilation ".6"
+//$ParallaxStrength "0"
+$CorneaBumpStrength "0"
+$Glossiness 0
+"$nodecal" 1
+"$model" 1
+"$halflambert" 1
+"$phong" "1"
+"$phongexponent" "8"
+"$phongboost""3"
+"$phongfresnelranges""[0.05 0.5 1]"
+"$phongalbedotint" "1"
+"$selfillum" "0"
+
+"$rimlight" "1"
+"$rimlightexponent" "0.5"
+"$rimlightboost" "3.5"
+"$rimmask" 1
+}

@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "ponies\Luna\Luna_hair"
+	"$bumpmap" "ponies\Luna\Luna_flat_normals"
+
+	"$selfillum" "1"
+	"$selfillumtint" "[0.4 0.4 0.4]"	
+	"$selfIllumFresnel" "1"
+	"$selfIllumFresnelMinMaxExp" "[0 1.0 1.0]"
+
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".3"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "1"
+	
+	//"Proxies"
+    //{
+	//	"TextureScroll"
+	//	{
+	//		"textureScrollVar" "$basetexturetransform"
+	//		"textureScrollRate" 0.25
+	//		"textureScrollAngle" -90
+	//	}
+    //}
+	
+}

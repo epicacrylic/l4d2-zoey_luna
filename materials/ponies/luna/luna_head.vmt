@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "ponies\Luna/Luna_head"
+    "$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".3"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "1"
+}

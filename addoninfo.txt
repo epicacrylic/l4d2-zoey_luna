@@ -1,0 +1,29 @@
+"AddonInfo"
+{
+addontitle "Princess Luna (Zoey)"
+addonversion "1"
+addontagline "The fun has been doubled!"
+addonauthor "Doktor haus"
+addonSteamGroupName "TheReptileHouse"
+addonauthorSteamID "DoktorHaus"
+addonContent_Campaign 0
+addonURL0 "http://www.l4dmaps.com/profile.php?id=250539&user=Doktor+Haus"
+
+addonDescription "Zoey as her majesty the princess Luna."
+
+addonContent_Script 0
+addonContent_Music 0
+addonContent_Sound 0
+addonContent_prop 0 //This Add-on provides new props, 
+addonContent_Prefab 0 //Provides new prefabs
+
+addonContent_BackgroundMovie 0 //Provides a replacement for the background movie.
+addonContent_Survivor "Rochelle" //Provides a new survivor model. 0=false, 1=true, String in quotes if replaces specific single character, i.e. "Francis"
+addonContent_BossInfected 0 //Provides a new boss infected model. Break these out?
+addonContent_CommonInfected 0 //Provides a new common infected model
+addonContent_WeaponModel 0 //Provides a new appearance to existing weapons, but does not change their function
+addonContent_weapon 0 //provides new weapons or new zombie killing functionality, i.e. guns, explosives, booby traps, hot tar, 
+addonContent_Skin 0 //0 if no new skin textures for existing models. 1 if multiple skin pack. String in quotes if specific single skin
+addonContent_Spray 0 //Provides new sprays. 
+addonContent_Map 0 //Add-on provides a standalone map
+}

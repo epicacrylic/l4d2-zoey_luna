@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "ponies\luna\Luna_body"
+	"$bumpmap" "ponies\luna\Luna_body_normals"
+	//"$selfillum" "1"
+	//"$selfillummask" "ponies\luna\Luna_Body_SelfIllum"
+	"$phong" "1"
+	"$phongexponent" "20"
+	"$phongboost" ".3"	
+	"$phongfresnelranges"	"[.3 1 8]"
+	"$halflambert" "0"
+}
